@@ -11,7 +11,7 @@ Assignment 2. Calculator
 
 Assignemnt 3. Sorting Analysis
 - Implementing Bubble sort, Insertion sort, Quick sort, Three-way Quick sort, Merge sort, Radix sort
-- Comparing run time w/ different input size
+- Comparing run time by various input sizes
 
 Assignment 4. Nucleic Sequence Analysis
 - AVL Tree, Hashing
