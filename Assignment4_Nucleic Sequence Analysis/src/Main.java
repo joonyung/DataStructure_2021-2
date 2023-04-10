@@ -125,7 +125,6 @@ class AVLTree{
 		return HashValue;
 	}
 
-	/*  ##### NOTICE: you should use PrintByHashValue, but you can change other functions to implement AVL tree ###### */
 	public void InsertNode(TreeNode NewNode){
 		NumberOfElement++;
 		
@@ -287,8 +286,6 @@ class TreeNode{
 	// ex) positions = [(1, 1), (1, 7), (2, 5)]
 	private String subsequence;
 
-	// This is an example of implementation of "positions" with linkedlist
-	// you can implement {positions|(student_id, start_index)} with any data structures as you want
 	private ListNode head=null;
 	private ListNode tail=null;
 	//////////////////////////////////
